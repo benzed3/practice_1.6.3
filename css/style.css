@@ -16,6 +16,7 @@ h1 {
     margin: 0;
     text-align: center;
     padding: 17px 0 17px 0;
+    margin-bottom: 20px;
 }
 
 h2 {
@@ -25,6 +26,7 @@ h2 {
 .container {
     width: 1024px;
     margin: 0 auto;
+    line-height: 1.5;
 }
 
 #main-bio,
@@ -35,6 +37,7 @@ h2 {
 
 #bio-image {
     width: 200px;
+    height: 200px;
 }
 
 #main-bio {
@@ -43,7 +46,6 @@ h2 {
 
 #contact-info {
     width: 30%;
-    line-height: 1.5;
 }
 
 a {
