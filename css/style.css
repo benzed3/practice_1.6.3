@@ -4,6 +4,7 @@ body {
     font: #333333;
     margin: 0;
     padding: 0;
+    line-height: 150%;
 }
 
 header {
@@ -16,7 +17,7 @@ h1 {
     margin: 0;
     text-align: center;
     padding: 17px 0 17px 0;
-    margin-bottom: 20px;
+    margin-bottom: 18px;
 }
 
 h2 {
@@ -26,7 +27,6 @@ h2 {
 .container {
     width: 1024px;
     margin: 0 auto;
-    line-height: 1.5;
 }
 
 #main-bio,
