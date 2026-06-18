@@ -34,3 +34,16 @@ h2 {
 #bio-image {
     width: 200px;
 }
+
+#main-bio {
+    width: 70%;
+}
+
+#contact-info {
+    width: 30%;
+    line-height: 1.5;
+}
+
+a {
+    color: #d21034;
+}
